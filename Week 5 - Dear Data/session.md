@@ -49,13 +49,17 @@ Anime, sci-fi enthusiasts can jot down the shows or characters they've recently 
 
 This real-time approach will sharpen your observation skills and help you think creatively about how to represent this data.
 
-### Creating your Data Collage
+### Creating your Data Collage
 
 * **Visualizing Data**
 
 After collecting your data, it's time to get creative! 
 
 These are some different ways to visually represent your data, inspired by "Dear Data" and beyond.
+
+Some examples [from "Dear Data"](https://fivethirtyeight.com/features/dear-data-and-fivethirtyeight-want-you-to-visualize-your-podcast-habits/)
+
+![Dear Data](DearData.png)
 
 * **Brainstorming and Sketching**
 
