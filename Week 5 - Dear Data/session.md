@@ -1,8 +1,8 @@
 ## Exploring Data through Art
 
-*Objective:*
-
 Today, we're going to transform the way you see and understand data. By the end of our session, you'll not only have a new perspective on the data that surrounds us but also how it can be creatively visualized in an artistic and personal manner. We're going to collect, analyze, and transform our everyday data into something unique - a data collage that tells a story about you.
+
+[Presentation](https://www.canva.com/design/DAF_bK73PxY/6lN9TOheu6CTi-LJ_Nd-4w/view?utm_content=DAF_bK73PxY&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 ### Understanding Data
 
