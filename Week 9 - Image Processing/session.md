@@ -1,1 +1,0 @@
-* artistic aplication of image processing using cellular automata for photos or other images
